@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const leadForm = document.querySelector('.lead-form');
     // URL do Formspree - Substitua SEU_ID_AQUI pelo ID real do seu formulário
     // Para criar: https://formspree.io
-    const FORMSPREE_URL = 'https://formspree.io/f/SEU_ID_AQUI';
+    const FORMSPREE_URL = 'https://formspree.io/f/xdawybgo';
 
     if (leadForm) {
         leadForm.addEventListener('submit', (e) => {
